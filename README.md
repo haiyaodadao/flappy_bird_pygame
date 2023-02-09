@@ -1,0 +1,2 @@
+# flappy_bird_pygame
+这是一个由pygame模块写的Flappy Bird开源小游戏
