@@ -1,2 +1,3 @@
 # flappy_bird_pygame
-这是一个由pygame模块写的Flappy Bird开源小游戏
+这是一个由pygame模块写的Flappy Bird开源小游戏\
+请使用最新版本的Pygame和大于3.7版本的Python运行
